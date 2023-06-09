@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ss4wDzhF4p28638Qql6aB7WGgG2pC/qZisn8Mcqe/RGZlGKRUo+b5mOUw1NZ9wsKXHfzdZRs1zzheSTE6CVYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YRyabinin\\JavaScript\\dotnet\\Watch_airbag\\Watch_airbag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\YRyabinin\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

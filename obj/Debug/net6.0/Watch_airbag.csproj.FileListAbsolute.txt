@@ -1,0 +1,15 @@
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\bin\Debug\net6.0\Watch_airbag.exe
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\bin\Debug\net6.0\Watch_airbag.deps.json
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\bin\Debug\net6.0\Watch_airbag.runtimeconfig.json
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\bin\Debug\net6.0\Watch_airbag.dll
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\bin\Debug\net6.0\Watch_airbag.pdb
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.csproj.AssemblyReference.cache
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.AssemblyInfoInputs.cache
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.AssemblyInfo.cs
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.csproj.CoreCompileInputs.cache
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.dll
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\refint\Watch_airbag.dll
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.pdb
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\Watch_airbag.genruntimeconfig.cache
+C:\Users\YRyabinin\JavaScript\dotnet\Watch_airbag\obj\Debug\net6.0\ref\Watch_airbag.dll
